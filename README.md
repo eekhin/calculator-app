@@ -1,4 +1,4 @@
-#Core Project
+# calculator-app
 
 *Structure for creating a basic Java Project.*
 
