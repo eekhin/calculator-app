@@ -1,6 +1,6 @@
 # calculator-app
 
-*Structure for creating a basic Java Project.*
+*Structure for creating a calculator app Project.*
 
 **Java 7**
 
